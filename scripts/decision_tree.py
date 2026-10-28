@@ -16,35 +16,37 @@ import openpyxl
 from openpyxl.styles import Font, PatternFill
 from pathlib import Path
 
-XLSX_FILE = Path(__file__).parent / "Taxon list.xlsx"
+PROJECT_ROOT = Path(__file__).parent.parent
+XLSX_FILE = PROJECT_ROOT / "data" / "Taxon list.xlsx"
+EVIDENCE_DIR = PROJECT_ROOT / "data" / "evidence"
 
 GROUPS = {
     "plant": {
-        "json": Path(__file__).parent / "plants_full_evidence.json",
+        "json": EVIDENCE_DIR / "plants_full_evidence.json",
         "filter": lambda group: group.strip() == "Plants",
     },
     "alga": {
-        "json": Path(__file__).parent / "algae_full_evidence.json",
+        "json": EVIDENCE_DIR / "algae_full_evidence.json",
         "filter": lambda group: group.strip() == "Algae",
     },
     "arthropod": {
-        "json": Path(__file__).parent / "arthropods_full_evidence.json",
+        "json": EVIDENCE_DIR / "arthropods_full_evidence.json",
         "filter": lambda group: group.strip() == "Arthropods",
     },
     "fungi": {
-        "json": Path(__file__).parent / "fungi_full_evidence.json",
+        "json": EVIDENCE_DIR / "fungi_full_evidence.json",
         "filter": lambda group: group.strip() == "Fungi",
     },
     "vertebrate": {
-        "json": Path(__file__).parent / "vertebrates_full_evidence.json",
+        "json": EVIDENCE_DIR / "vertebrates_full_evidence.json",
         "filter": lambda group: group.strip() == "Vertebrates",
     },
     "protist": {
-        "json": Path(__file__).parent / "protists_full_evidence.json",
+        "json": EVIDENCE_DIR / "protists_full_evidence.json",
         "filter": lambda group: group.strip() == "Protists",
     },
     "other_invertebrate": {
-        "json": Path(__file__).parent / "other_invertebrates_full_evidence.json",
+        "json": EVIDENCE_DIR / "other_invertebrates_full_evidence.json",
         "filter": lambda group: group.strip() == "Other_invertebrates",
     },
 }

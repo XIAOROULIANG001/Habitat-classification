@@ -43,8 +43,9 @@ import urllib.error
 import openpyxl
 from pathlib import Path
 
-XLSX_FILE = Path(__file__).parent / "Taxon list.xlsx"
-OUTPUT_JSON = Path(__file__).parent / "arthropods_full_evidence.json"
+PROJECT_ROOT = Path(__file__).parent.parent
+XLSX_FILE = PROJECT_ROOT / "data" / "Taxon list.xlsx"
+OUTPUT_JSON = PROJECT_ROOT / "data" / "evidence" / "arthropods_full_evidence.json"
 DELAY = 0.5
 MAX_SPECIES = 10
 

@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """
-Other invertebrates habitat evidence scraper.
-Output: other_invertebrates_full_evidence.json
+Protist habitat evidence scraper.
+Output: protists_full_evidence.json
 
 Source:
-  WoRMS REST API 
+  WoRMS REST API (single source, no gap-filling tier)
   URL: https://www.marinespecies.org/rest/AphiaRecordsByName/{genus}
   Fields: isMarine, isBrackish, isFreshwater, isTerrestrial (boolean flags)
 
+Filter strategy:
+  WoRMS has no single "Protista" kingdom — protists are scattered across
+  Chromista, Protozoa, and other kingdoms. Instead of matching one kingdom,
+  we exclude the three kingdoms that are NOT protists (Plantae, Animalia,
+  Fungi) and accept everything else.
+
 Pipeline:
-  1. Read genera from Taxon list.xlsx (Group = "Other_invertebrates")
-  2. For each genus, search WoRMS by name (filter kingdom=Animalia) → get AphiaID
+  1. Read protist genera from Taxon list.xlsx (Group = "Protists")
+  2. For each genus, search WoRMS by name (exclude Plantae/Animalia/Fungi) → get AphiaID
   3. Query AphiaChildrenByAphiaID → collect species-level environment flags (max 10)
   4. If no species found but genus has environment flags → use genus-level fallback
   5. Save all results to JSON
@@ -18,7 +24,7 @@ Pipeline:
 Run log:
   Last run: 2026-09-08
   Environment: macOS 26.3, Python 3.13.13, openpyxl 3.1.5
-  Result: 143/143 genera with evidence
+  Result: 155/228 genera with evidence
 """
 
 import json
@@ -28,12 +34,14 @@ import urllib.error
 import openpyxl
 from pathlib import Path
 
-XLSX_FILE = Path(__file__).parent / "Taxon list.xlsx"
-OUTPUT_JSON = Path(__file__).parent / "other_invertebrates_full_evidence.json"
+PROJECT_ROOT = Path(__file__).parent.parent
+XLSX_FILE = PROJECT_ROOT / "data" / "Taxon list.xlsx"
+OUTPUT_JSON = PROJECT_ROOT / "data" / "evidence" / "protists_full_evidence.json"
 DELAY = 0.5
 MAX_SPECIES = 10
 
 WORMS_BASE = "https://www.marinespecies.org/rest"
+EXCLUDE_KINGDOMS = {"Plantae", "Animalia", "Fungi"}
 
 
 def env_string(record):
@@ -63,10 +71,10 @@ def worms_search_genus(genus):
         return None, ""
     for r in data:
         if (r.get("rank") == "Genus" and r.get("status") == "accepted"
-                and r.get("kingdom") == "Animalia"):
+                and r.get("kingdom") not in EXCLUDE_KINGDOMS):
             return r["AphiaID"], env_string(r)
     for r in data:
-        if r.get("kingdom") == "Animalia":
+        if r.get("kingdom") not in EXCLUDE_KINGDOMS:
             return r.get("AphiaID"), env_string(r)
     return None, ""
 
@@ -125,15 +133,15 @@ def main():
     genera = []
     for row in range(2, ws.max_row + 1):
         group = ws.cell(row=row, column=3).value
-        if group and "other_invertebrate" in str(group).lower():
+        if group and "protist" in str(group).lower():
             genus = str(ws.cell(row=row, column=9).value).strip()
             if genus not in genera:
                 genera.append(genus)
     wb.close()
 
     total = len(genera)
-    print(f"Scraping {total} other invertebrate genera from WoRMS...", flush=True)
-    print(f"Filter: kingdom = Animalia", flush=True)
+    print(f"Scraping {total} protist genera from WoRMS...", flush=True)
+    print(f"Filter: exclude kingdoms {EXCLUDE_KINGDOMS}", flush=True)
     print(flush=True)
 
     stats = {"found": 0, "manual": 0}
