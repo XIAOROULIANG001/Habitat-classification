@@ -1,0 +1,1368 @@
+{
+  "Acipenser": {
+    "unique_species": 3,
+    "total_records": 3,
+    "iucn_count": 3,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Acipenser sturio",
+        "habitat": "System: Freshwater (=Inland waters), Marine | Habitats: Marine Neritic - Subtidal Loose Rock/pebble/gravel, Marine Neritic - Subtidal Sandy, Marine Neritic - Subtidal Sandy-Mud, Marine Neritic - Subtidal Muddy, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/230/217114484"
+      },
+      {
+        "species": "Acipenser dabryanus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Marine Neritic - Estuaries, Artificial/Aquatic - Aquaculture Ponds, Artificial/Aquatic - Ponds (below 8ha), Artificial/Aquatic - Water Storage Areas (over 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/231/61462199"
+      },
+      {
+        "species": "Acipenser brevirostrum",
+        "habitat": "System: Freshwater (=Inland waters), Marine | Habitats: Marine Intertidal - Salt Marshes (Emergent Grasses), Marine Oceanic - Epipelagic (0-200m), Marine Neritic - Estuaries, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/222/97439806"
+      }
+    ]
+  },
+  "Ambloplites": {
+    "unique_species": 3,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Ambloplites rupestris",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202425/2744395"
+      },
+      {
+        "species": "Ambloplites cavifrons",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/1078/498639"
+      },
+      {
+        "species": "Ambloplites cavifrons",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/1078/498639"
+      },
+      {
+        "species": "Ambloplites constellatus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202424/2744324"
+      },
+      {
+        "species": "Ambloplites constellatus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202424/2744324"
+      }
+    ]
+  },
+  "Lepomis": {
+    "unique_species": 4,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Lepomis gulosus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/191830/130013944"
+      },
+      {
+        "species": "Lepomis microlophus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Artificial/Aquatic - Ponds (below 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202558/18230237"
+      },
+      {
+        "species": "Lepomis megalotis",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Artificial/Aquatic - Water Storage Areas (over 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62216/130014171"
+      },
+      {
+        "species": "Lepomis gibbosus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Artificial/Aquatic - Ponds (below 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202555/18237003"
+      },
+      {
+        "species": "Lepomis microlophus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Artificial/Aquatic - Ponds (below 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202558/18230237"
+      }
+    ]
+  },
+  "Catostomus": {
+    "unique_species": 1,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Catostomus catostomus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62192/159616602"
+      },
+      {
+        "species": "Catostomus catostomus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62192/159616602"
+      },
+      {
+        "species": "Catostomus catostomus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62192/159616602"
+      },
+      {
+        "species": "Catostomus catostomus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62192/159616602"
+      },
+      {
+        "species": "Catostomus catostomus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/62192/159616602"
+      }
+    ]
+  },
+  "Carassius": {
+    "unique_species": 1,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Carassius carassius",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/3849/58294635"
+      },
+      {
+        "species": "Carassius carassius",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/3849/58294635"
+      },
+      {
+        "species": "Carassius carassius",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/3849/58294635"
+      },
+      {
+        "species": "Carassius carassius",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/3849/58294635"
+      },
+      {
+        "species": "Carassius carassius",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/3849/58294635"
+      }
+    ]
+  },
+  "Chrosomus": {
+    "unique_species": 3,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Chrosomus neogaeus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184089/15363917"
+      },
+      {
+        "species": "Chrosomus erythrogaster",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Freshwater Springs and Oases, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202067/15362857"
+      },
+      {
+        "species": "Chrosomus eos",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202066/15363708"
+      },
+      {
+        "species": "Chrosomus neogaeus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184089/15363917"
+      },
+      {
+        "species": "Chrosomus erythrogaster",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Freshwater Springs and Oases, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202067/15362857"
+      }
+    ]
+  },
+  "Notemigonus": {
+    "unique_species": 1,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Notemigonus crysoleucas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184098/18233267"
+      },
+      {
+        "species": "Notemigonus crysoleucas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184098/18233267"
+      },
+      {
+        "species": "Notemigonus crysoleucas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184098/18233267"
+      },
+      {
+        "species": "Notemigonus crysoleucas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184098/18233267"
+      },
+      {
+        "species": "Notemigonus crysoleucas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/184098/18233267"
+      }
+    ]
+  },
+  "Pimephales": {
+    "unique_species": 4,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Pimephales vigilax",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls), Artificial/Aquatic - Water Storage Areas (over 8ha)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/191293/130031492"
+      },
+      {
+        "species": "Pimephales tenellus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202347/18236120"
+      },
+      {
+        "species": "Pimephales promelas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/191292/130031376"
+      },
+      {
+        "species": "Pimephales promelas",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks, Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/191292/130031376"
+      },
+      {
+        "species": "Pimephales notatus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202346/18230847"
+      }
+    ]
+  },
+  "Semotilus": {
+    "unique_species": 3,
+    "total_records": 5,
+    "iucn_count": 5,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Semotilus lumbee",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/20107/19033162"
+      },
+      {
+        "species": "Semotilus thoreauianus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202372/18229328"
+      },
+      {
+        "species": "Semotilus thoreauianus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202372/18229328"
+      },
+      {
+        "species": "Semotilus lumbee",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/20107/19033162"
+      },
+      {
+        "species": "Semotilus atromaculatus",
+        "habitat": "System: Freshwater (=Inland waters) | Habitats: Wetlands (inland) - Permanent Freshwater Lakes (over 8ha), Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/202370/18232361"
+      }
+    ]
+  },
+  "Fundulus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Fundulus",
+        "habitat": "Environment: marine, brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159292"
+      }
+    ]
+  },
+  "Poecilia": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Poecilia",
+        "habitat": "Environment: marine, brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154394"
+      }
+    ]
+  },
+  "Esox": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Esox",
+        "habitat": "Environment: brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154208"
+      }
+    ]
+  },
+  "Umbra": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Umbra",
+        "habitat": "Environment: freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154220"
+      }
+    ]
+  },
+  "Neogobius": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Neogobius",
+        "habitat": "Environment: marine, brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=125996"
+      }
+    ]
+  },
+  "Morone": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Morone",
+        "habitat": "Environment: marine, brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=151176"
+      }
+    ]
+  },
+  "Culaea": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Culaea",
+        "habitat": "Environment: freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=268905"
+      }
+    ]
+  },
+  "Etheostoma": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Etheostoma",
+        "habitat": "Environment: marine, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=269116"
+      }
+    ]
+  },
+  "Perca": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Perca",
+        "habitat": "Environment: brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=151313"
+      }
+    ]
+  },
+  "Ameiurus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Ameiurus",
+        "habitat": "Environment: brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154198"
+      }
+    ]
+  },
+  "Ictalurus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Ictalurus",
+        "habitat": "Environment: brackish, freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=154203"
+      }
+    ]
+  },
+  "Anaxyrus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Anaxyrus",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1486703"
+      }
+    ]
+  },
+  "Desmognathus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Desmognathus",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1369390"
+      }
+    ]
+  },
+  "Eurycea": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Eurycea",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1369412"
+      }
+    ]
+  },
+  "Notophthalmus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Notophthalmus",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1347513"
+      }
+    ]
+  },
+  "Aquila": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Aquila",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159106"
+      }
+    ]
+  },
+  "Buteo": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Buteo",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159108"
+      }
+    ]
+  },
+  "Cathartes": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Cathartes",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159143"
+      }
+    ]
+  },
+  "Aix": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Aix",
+        "habitat": "Environment: marine, freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=158937"
+      }
+    ]
+  },
+  "Anas": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Anas",
+        "habitat": "Environment: marine, brackish, freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=148788"
+      }
+    ]
+  },
+  "Cairina": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Cairina",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=415144"
+      }
+    ]
+  },
+  "Larus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Larus",
+        "habitat": "Environment: marine, brackish, freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137043"
+      }
+    ]
+  },
+  "Scolopax": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Scolopax",
+        "habitat": "Environment: marine, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159026"
+      }
+    ]
+  },
+  "Columba": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Columba",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=558544"
+      }
+    ]
+  },
+  "Zenaida": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Zenaida",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1485213"
+      }
+    ]
+  },
+  "Bonasa": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Bonasa",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1508553"
+      }
+    ]
+  },
+  "Meleagris": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Meleagris",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1525633"
+      }
+    ]
+  },
+  "Perdix": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Perdix",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1562660"
+      }
+    ]
+  },
+  "Phasianus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Phasianus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1461948"
+      }
+    ]
+  },
+  "Cardinalis": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Cardinalis",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484331"
+      }
+    ]
+  },
+  "Corvus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Corvus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159387"
+      }
+    ]
+  },
+  "Haemorhous": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Haemorhous",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484344"
+      }
+    ]
+  },
+  "Agelaius": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Agelaius",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159392"
+      }
+    ]
+  },
+  "Quiscalus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Quiscalus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=415913"
+      }
+    ]
+  },
+  "Seiurus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Seiurus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=415967"
+      }
+    ]
+  },
+  "Setophaga": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Setophaga",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=415976"
+      }
+    ]
+  },
+  "Junco": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Junco",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484465"
+      }
+    ]
+  },
+  "Melospiza": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Melospiza",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484477"
+      }
+    ]
+  },
+  "Zonotrichia": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Zonotrichia",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484612"
+      }
+    ]
+  },
+  "Passer": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Passer",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=558570"
+      }
+    ]
+  },
+  "Regulus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Regulus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=558581"
+      }
+    ]
+  },
+  "Sitta": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sitta",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484574"
+      }
+    ]
+  },
+  "Sturnus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sturnus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=558590"
+      }
+    ]
+  },
+  "Catharus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Catharus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484346"
+      }
+    ]
+  },
+  "Turdus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Turdus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=558599"
+      }
+    ]
+  },
+  "Ardea": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Ardea",
+        "habitat": "Environment: marine, brackish, freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=159380"
+      }
+    ]
+  },
+  "Nycticorax": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Nycticorax",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1897001"
+      }
+    ]
+  },
+  "Sphyrapicus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sphyrapicus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1484578"
+      }
+    ]
+  },
+  "Phalacrocorax": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Phalacrocorax",
+        "habitat": "Environment: marine, brackish, freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137054"
+      }
+    ]
+  },
+  "Bos": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Bos",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1479041"
+      }
+    ]
+  },
+  "Sus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1469455"
+      }
+    ]
+  },
+  "Canis": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Canis",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1461481"
+      }
+    ]
+  },
+  "Vulpes": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Vulpes",
+        "habitat": "Environment: marine, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=404129"
+      }
+    ]
+  },
+  "Felis": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Felis",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1460007"
+      }
+    ]
+  },
+  "Mephitis": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Mephitis",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1597435"
+      }
+    ]
+  },
+  "Procyon": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Procyon",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1451679"
+      }
+    ]
+  },
+  "Ursus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Ursus",
+        "habitat": "Environment: marine, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137011"
+      }
+    ]
+  },
+  "Sorex": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sorex",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1506664"
+      }
+    ]
+  },
+  "Equus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Equus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1603277"
+      }
+    ]
+  },
+  "Homo": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Homo",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1455976"
+      }
+    ]
+  },
+  "Castor": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Castor",
+        "habitat": "Environment: freshwater, terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=890547"
+      }
+    ]
+  },
+  "Microtus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Microtus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1506685"
+      }
+    ]
+  },
+  "Peromyscus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Peromyscus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1597419"
+      }
+    ]
+  },
+  "Rattus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Rattus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=993633"
+      }
+    ]
+  },
+  "Sciurus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Sciurus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1603309"
+      }
+    ]
+  },
+  "Tamias": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Tamias",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1597440"
+      }
+    ]
+  },
+  "Tamiasciurus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Tamiasciurus",
+        "habitat": "Environment: terrestrial (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1603315"
+      }
+    ]
+  },
+  "Chrysemys": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 0,
+    "worms_count": 1,
+    "all_species": [
+      {
+        "species": "Chrysemys",
+        "habitat": "Environment: freshwater (genus-level)",
+        "source": "WoRMS",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1314185"
+      }
+    ]
+  },
+  "Poecile": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Poecile atricapillus",
+        "habitat": "System: Terrestrial | Habitats: Forest - Temperate, Forest - Boreal, Artificial/Terrestrial - Urban Areas, Artificial/Terrestrial - Rural Gardens",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/22711716/137666504"
+      }
+    ]
+  },
+  "Odocoileus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Odocoileus virginianus",
+        "habitat": "System: Terrestrial | Habitats: Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha), Wetlands (inland) - Seasonal/Intermittent Saline, Brackish or Alkaline Lakes and Flats, Savanna - Dry, Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha), Forest - Subtropical/Tropical Moist Montane",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/42394/22162580"
+      }
+    ]
+  },
+  "Blarina": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Blarina brevicauda",
+        "habitat": "System: Terrestrial | Habitats: Forest - Temperate, Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands, Shrubland - Temperate",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/41451/115187102"
+      }
+    ]
+  },
+  "Parascalops": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Parascalops breweri",
+        "habitat": "System: Terrestrial | Habitats: Forest - Temperate, Artificial/Terrestrial - Pastureland, Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest, Shrubland - Temperate, Grassland - Temperate",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/41469/115188181"
+      }
+    ]
+  },
+  "Sylvilagus": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Sylvilagus floridanus",
+        "habitat": "System: Terrestrial | Habitats: Artificial/Terrestrial - Plantations, Artificial/Terrestrial - Arable Land, Forest - Temperate, Shrubland - Temperate, Artificial/Terrestrial - Pastureland",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/41299/231047844"
+      }
+    ]
+  },
+  "Erethizon": {
+    "unique_species": 1,
+    "total_records": 1,
+    "iucn_count": 1,
+    "worms_count": 0,
+    "all_species": [
+      {
+        "species": "Erethizon dorsatum",
+        "habitat": "System: Terrestrial | Habitats: Grassland - Temperate, Forest - Boreal, Shrubland - Temperate, Grassland - Tundra, Forest - Temperate",
+        "source": "IUCN Red List",
+        "url": "https://www.iucnredlist.org/species/8004/22213161"
+      }
+    ]
+  }
+}
